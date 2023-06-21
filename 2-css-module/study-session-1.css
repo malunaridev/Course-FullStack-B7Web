@@ -1,0 +1,24 @@
+/* Seleciona tags globais. */
+element {
+    color: aliceblue;
+}
+
+/* Seleciona um id. */
+#element {
+    color: aliceblue;
+}
+
+/* Seleciona uma classe. */
+.element {
+    color:aliceblue   
+}
+
+/* Aplica o estilo a ambos. */
+element, .element {
+    color: aliceblue;
+}
+
+/* Aplica o estilo a um elemento dentro do ouitro. */
+element .element {
+    color: aliceblue;
+}
