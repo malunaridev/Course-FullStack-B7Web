@@ -9,9 +9,8 @@
 
 ![What is this about?](assets/Readme-What-is-this.png) ![Do que se trata?](./assets/Readme-Do-que-se-trata.png/)
 
-Clever Programmer is a youtuber 
-
-##### O curso Discover, da Rocketseat, é um guia introdutório ao mundo do desenvolvimento, que percorre tanto o front-end, quanto o back-end, e pincela até mesmo a área de dados, para aqueles que estão dando seus primeiros passos. O curso explica o básico, em contato com HTML, CSS, JavaScript e outras tecnologias.
+B7WEB Fullstack course is, by far, the longest course I've enrolled until now. It has around 800 hours of topics and practices, covering a very huge collection of technologies, getting deep into front-end, back-end and even mobile development. For this last one I am particullary interested, since I haven't touch any mobile development until now. It's a long way to go, but I can affirm that my excitment is also giant!
+##### O curso Fullstack da empresa B7WEB é, até agora, o mais longo dos cursos em que eu já participei. Ele tem cerca de 800 horas de aulas, práticas e teóricas, cobrindo uma coleção gigante de tecnologias, adentrando o desenvolvimento front-end, back-end, e até mesmo mobile. Para este último, eu estou particularmente animada, já que eu não me envolvi com nenhum tipo de tecnologia mobile até agora. É uma jornada bem longa, porém minha animação é equivalente.
 
 <br />
 <br />
@@ -30,17 +29,11 @@ Clever Programmer is a youtuber
 
 |  Topic       |  Content        |  Done        |
 | ------------------ | ------------------ | :--------------------------------------------: |
-|  Intro      | HTTP, URLs, TCP, IP, Proxy, browsers, MAC Adress, DNS, hardware, software | ![Done](./assets/Readme-Done.png) |
-|  HTML      | SEO, tables, meta, social meta, favicon | ![Done](./assets/Readme-Done.png) |
-|  CSS  | Box model, shorthands, vendor prefixes, functions, root | ![Done](./assets/Readme-Done.png) |
-|  JavaScript  | DOM, callback, Promises, Async-Await | ![Done](./assets/Readme-Done.png) |
-|  NodeJs  | Packages, scripts, global dependency, timers, event modules | ![Done](./assets/Readme-Done.png) |
-|  EJS  | Reuse code, pages | ![Done](./assets/Readme-Done.png) |
-|  SQL  | Data, tables, SELECT, operators | ![Done](./assets/Readme-Done.png) |
-|  Git  | CheatSheet, git log, hash values, HEAD | ![Done](./assets/Readme-Done.png) |
-|  API  | Back-end, front-end |  |
-|  ReactJs  | JSX, components, Key Prop, Hooks  | |
-|  TypeScript  | Functions, Type Assertions  |  |
+|  HTML      | Basics, meta tags, inline style | ![Done](./assets/Readme-Done.png) |
+|  CSS      | Child selectors | ![Done](./assets/Readme-Done.png) |
+|  JavaScript      | Functions, data types, loops | ![Done](./assets/Readme-Done.png) |
+|  React.js      | Components |  |
+|  More updates soon!      |   |
 
 
 <br />
